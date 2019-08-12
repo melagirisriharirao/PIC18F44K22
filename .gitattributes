@@ -1,3 +1,7 @@
 *.c linguist-language=C
 
-Makefile linguist-generated=true
+PIC18F44K22/MyLedBlink.X/Makefile linguist-generated=true
+PIC18F44K22/switchInt.X/Makefile linguist-generated=true
+
+PIC18F44K22/MyLedBlink.X/Makefile linguist-detectable=false
+PIC18F44K22/switchInt.X/Makefile linguist-detectable=false
