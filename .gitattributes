@@ -1,1 +1,3 @@
 *.c linguist-language=Embedded C
+
+Makefile linguist-generated=true
